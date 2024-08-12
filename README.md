@@ -1,1 +1,1 @@
-Welcome to my first project useing Angular ts framework with html and css 
+Welcome to my first project using Angular ts framework with html and css 
